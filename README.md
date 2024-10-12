@@ -26,6 +26,10 @@ Before running the installation script, ensure that the following are installed:
 
    ```bash
    bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
+- Also make sure to clone [TPM](https://github.com/tmux-plugins/tpm):
+
+   ```bash
+   git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 ### Installation
 
